@@ -2,27 +2,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir1376fai&label=Profile%20views&color=0e75b6&style=flat" alt="amir1376fai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir1376fai" alt="amir1376fai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 I'm an Assistant Professor and Embedded Systems Developer from Tehran, Iran.  
 
-## 🎓 Education
+
+<img align="right" alt ="amir1376fai" width = 400 src = "https://miro.medium.com/1*Ypxxk9RxAjLx8QjlIYYvAg.gif">
+
+
+🎓 Education
 - **B.S.** in Electrical Engineering, University of Science and Culture, 2019  
 - **M.S.** in Digital Electronic Engineering, Iran University of Science and Technology (IUST), Tehran, Iran  
 
-## 💼 Experience
+💼 Experience
 - **Embedded Systems Developer**, Borna Electronics, Sharrey, Iran (2021–2023)  
 - **R&D Engineer**, GADA Group, Tehran, Iran (2019–2021)  
 - **Assistant Professor**, Department of Electrical Engineering, University of Science and Culture (since 2019)  
 
-## 🚀 Research Interests
+🚀 Research Interests
 - AI-based Medical Systems  
 - Natural Language Processing (NLP) & Large Language Models (LLMs)  
 - IoT & Edge Devices  
 
-## 🌱 Currently Learning / Exploring
+🌱 Currently Learning / Exploring
 - Advanced AI & LLM applications  
 - Edge AI devices and embedded IoT systems  
 
