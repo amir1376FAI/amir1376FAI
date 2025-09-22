@@ -20,5 +20,3 @@ I'm an Assistant Professor and Embedded Systems Developer from Tehran, Iran.
 - Advanced AI & LLM applications  
 - Edge AI devices and embedded IoT systems  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?amir1376FAI
-=yousefvafaei&show_icons=true&theme=radical)
