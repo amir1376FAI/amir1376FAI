@@ -1,4 +1,4 @@
-# Hi there, I'm Second Author 👋
+# Hi there, I'm Amir Mohammad 👋
 
 I'm an Assistant Professor and Embedded Systems Developer from Tehran, Iran.  
 
