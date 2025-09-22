@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Second Author 👋
 
-<!--
-**amir1376FAI/amir1376FAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Assistant Professor and Embedded Systems Developer from Tehran, Iran.  
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **B.S.** in Electrical Engineering, University of Science and Culture, 2019  
+- **M.S.** in Digital Electronic Engineering, Iran University of Science and Technology (IUST), Tehran, Iran  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Embedded Systems Developer**, Borna Electronics, Sharrey, Iran (2021–2023)  
+- **R&D Engineer**, GADA Group, Tehran, Iran (2019–2021)  
+- **Assistant Professor**, Department of Electrical Engineering, University of Science and Culture (since 2019)  
+
+## 🚀 Research Interests
+- AI-based Medical Systems  
+- Natural Language Processing (NLP) & Large Language Models (LLMs)  
+- IoT & Edge Devices  
+
+## 🌱 Currently Learning / Exploring
+- Advanced AI & LLM applications  
+- Edge AI devices and embedded IoT systems  
+
